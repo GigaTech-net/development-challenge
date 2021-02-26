@@ -26,6 +26,7 @@ Ideally, this would take a junior developer no more than 1 hour to complete.
 - The application shall be able to be launched/tested by clicking this link ... [test me](http://127.0.0.1:8080/launch.html?launch=eyJhIjoiMSJ9&iss=https%3A%2F%2Flaunch.smarthealthit.org%2Fv%2Fr4%2Ffhir).
 - The application shall communication with a release 4 FHIR server.
   - for instance, https://r4.smarthealthit.org
+- Your submittal shall be a GitHub repository that you create, either by forking this one or creating your own.
 
 ## Prerequisites
 
@@ -46,13 +47,22 @@ Ideally, this would take a junior developer no more than 1 hour to complete.
 
 ## Submission
 
-When you are comfortable with your results, please email your fork to [GigaTECH Development Challenge][gthr]. Please keep your emails short and to the point.
+When you are comfortable with your results, please email a link to your GitHub repository to [GigaTECH Development Challenge][gthr]. Please keep your emails short and to the point.
 
 Any specific notes or further information you would like to add about your submittal, should be included in the GitHub project, as additional [GitHub Markdown][ghmd] notes.
 
 Do not feel as though you must create a public fork of this repository. You are free to create a throwaway GitHub account or private fork. In those cases, please let us know, at the above address, so that we may send you the GitHub IDs to add to the repository.
 
 ## Evaluations
+
+The code written for this challenge will be used in the next step of the interview process. You will discuss what you did with your technical interviewer. Although minimum requirements are set for this challenge, if you'd like to spend more time and enhance your submittal, you are welcome to, but this is not a requirement.
+
+Areas to potentially expand upon (this is not an exhaustive list)
+
+- add unit tests to your project
+- parse the json and display the output, versus just displaying the json
+- handle errors in a nice way for the user
+- Responsive presentation, determining the screen size and autoscaling the display
 
 ## License
 
