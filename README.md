@@ -2,7 +2,7 @@
 
 Hi! Thank you for your interest in [GigaTECH][gigatech]. Our hiring process may include a development challenge. This challenge allows us to gauge some of your basic software skill set. We will follow the challenge up with a technical interview to discuss what you have submitted.
 
-We appreciate that any coding challenge represents an investment of your time. We hope you see the value in having a code sample that is relatable to both of us for the interview. Should you be unsuccessful, you should feel free to use the code you developed for this challenge in any way that you would like.
+We appreciate that any coding challenge represents an investment of your time. We hope you see the value in having a code sample that is relatable to both of us for the interview. You should feel free to use the code you developed for this challenge in any way that you would like.
 
 ## The Challenge
 
