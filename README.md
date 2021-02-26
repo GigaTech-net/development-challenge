@@ -43,7 +43,7 @@ Ideally, this would take a junior developer no more than 1 hour to complete.
 - This is a sample "npm run serve" script
   - "serve": "./node_modules/http-server/bin/http-server src -p $npm_package_config_port --cors",
   - note the use of the http-server npm module
-- Take the [SMART &reg; Building a Javascript tutorial][smarttutorial] tutorial! Really!
+- Take the [SMART &reg; Building a Javascript tutorial][smarttutorial]! Really!
 
 ## Submission
 
