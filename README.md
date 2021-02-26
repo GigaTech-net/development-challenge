@@ -24,7 +24,7 @@ Ideally, this would take a junior developer no more than 1 hour to complete.
 - The application shall work with any patient in the patient list.
   - Ms. Mariana Acuna has at least one allergy.
 - The application shall be able to be launched/tested by clicking this link ... [test me](http://127.0.0.1:8080/launch.html?launch=eyJhIjoiMSJ9&iss=https%3A%2F%2Flaunch.smarthealthit.org%2Fv%2Fr4%2Ffhir).
-- The application shall communication with a release 4 FHIR server.
+- The application shall communicate with a release 4 FHIR server.
   - for instance, https://r4.smarthealthit.org
 - Your submittal shall be a GitHub repository that you create, either by forking this one or creating your own.
 
