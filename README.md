@@ -23,6 +23,9 @@ Ideally, this would take a junior developer no more than 1 hour to complete.
   - Dr. Albertine Orn is a good default provider with which to log in with
 - The application shall work with any patient in the patient list.
   - Ms. Mariana Acuna has at least one allergy.
+- The application shall be able to be launched/tested by clicking this link ... [test me](http://127.0.0.1:8080/launch.html?launch=eyJhIjoiMSJ9&iss=https%3A%2F%2Flaunch.smarthealthit.org%2Fv%2Fr4%2Ffhir).
+- The application shall communication with a release 4 FHIR server.
+  - for instance, https://r4.smarthealthit.org
 
 ## Prerequisites
 
@@ -30,6 +33,16 @@ Ideally, this would take a junior developer no more than 1 hour to complete.
 - A basic understanding of JSON
 
 ## Getting started
+
+- You will probably want to install npm
+  - For MacOS, these links may help you (MacOS is not required to perform this challenge)
+    - [Homebrew][homebrew]
+    - [NVM][nvm]
+    - [Nodejs][node]
+- This is a sample "npm run serve" script
+  - "serve": "./node_modules/http-server/bin/http-server src -p $npm_package_config_port --cors",
+  - note the use of the http-server npm module
+- Take the [SMART Building a Javascript tutorial][smarttutorial] tutorial! Really!
 
 ## Submission
 
@@ -50,12 +63,25 @@ This project is [MIT Licensed](LICENSE).
 The following references may be useful in this challenge.
 
 - [Github Markdown][ghmd]
+- [FHIR Specification][fhir]
+- [FHIR AllergyIntolerance][fhirallergy]
+- [fhirsearch][fhirsearch]
+- [SMART Technical Reference][smarttech]
+- [SMART Tutorial for browser apps][smarttutorial]
+- [SMART R4 FHIR Server][smartr4fhirserver]
+- [homebrew for MacOS][homebrew]
+- [Node Version Manager][nvm]
+- [nodejs][node]
 
 [gthr]: mailto:HR@giagatech.net?subject=[GigaTECH%20Development%20Challenge]%20Submittal "GigaTECH HR email submittal"
 [gigatech]: https://gigatech.net "GigaTECH Home"
 [ghmd]: https://guides.github.com/features/mastering-markdown/ "Github Markdown"
 [smarttech]: http://docs.smarthealthit.org/ "SMART technical reference"
+[smarttutorial]: http://docs.smarthealthit.org/tutorials/javascript/ "SMART browser application tutorial"
+[smartr4fhirserver]: https://r3.smarthealthit.org "SMART R4 FHIR Server"
 [fhir]: https://hl7.org/fhir "FHIR Specification"
+[fhirallergy]: https://www.hl7.org/fhir/allergyintolerance.html "FHIR AllergyIntolerance"
+[fhirsearch]: https://www.hl7.org/fhir/search.html "FHIR Search"
 [homebrew]: https://brew.sh/ "MacOS Homebrew"
 [nvm]: https://github.com/nvm-sh/nvm/blob/master/README.md "Node version manager"
 [node]: https://nodejs.org/en/ "Node JS"
