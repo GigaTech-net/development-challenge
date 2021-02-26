@@ -6,7 +6,7 @@ We appreciate that any coding challenge represents an investment of your time. W
 
 ## The Challenge
 
-One of the challenges we face as software developers is the ability to find and consume the appropriate information specific to a task while disregarding what does not matter at that point in time. This challenge is designed for you to consume information and write a small javascript browser based application. We will expose you to some of the technologies we deal with everyday, such as [FHIR &reg;][fhir] and [SMART &reg;][smarttech]. You are not expected to learn these technologies but merely use them to create the browser based application.
+One of the challenges we face as software developers is the ability to find and consume the appropriate information specific to a task, while disregarding what does not matter at that point in time. This challenge is designed for you to consume information and write a small javascript browser based application. We will expose you to some of the technologies we deal with everyday, such as [FHIR &reg;][fhir] and [SMART &reg;][smarttech]. You are not expected to learn these technologies but merely use them to create the browser based application.
 
 A common problem for clinicians today is how to extend their Electronic Health Record (EHR) applications with functionality that is useful. New functionality must not interfere with their current workflow. SMART &reg; offers a mechanism to do just that. We would like for you to develop a browser based application that uses the [EHR launch sequence](http://www.hl7.org/fhir/smart-app-launch/#ehr-launch-sequence) to display the allergies (in json format) for the current patient being viewed in the EHR.
 
@@ -43,7 +43,7 @@ Ideally, this would take a junior developer no more than 1 hour to complete.
 - This is a sample "npm run serve" script
   - "serve": "./node_modules/http-server/bin/http-server src -p $npm_package_config_port --cors",
   - note the use of the http-server npm module
-- Take the [SMART Building a Javascript tutorial][smarttutorial] tutorial! Really!
+- Take the [SMART &reg; Building a Javascript tutorial][smarttutorial] tutorial! Really!
 
 ## Submission
 
