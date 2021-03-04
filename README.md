@@ -83,7 +83,7 @@ The following references may be useful in this challenge.
 - [Node Version Manager][nvm]
 - [nodejs][node]
 
-[gthr]: mailto:HR@giagatech.net?subject=[GigaTECH%20Development%20Challenge]%20Submittal "GigaTECH HR email submittal"
+[gthr]: mailto:HR@gigatech.net?subject=[GigaTECH%20Development%20Challenge]%20Submittal "GigaTECH HR email submittal"
 [gigatech]: https://gigatech.net "GigaTECH Home"
 [ghmd]: https://guides.github.com/features/mastering-markdown/ "Github Markdown"
 [smarttech]: http://docs.smarthealthit.org/ "SMART technical reference"
